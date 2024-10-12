@@ -74,7 +74,7 @@ p {
 }
 
 .hero h2 {
-  font-family: var(--heading-font-family);
+  font-family: var(--heading-font-family);   
   font-weight: normal;
   line-height: 1.5;
   font-size: 24px;
@@ -150,7 +150,7 @@ p {
     padding: 80px 20px;
   }
 
-   .content{
+   .content {
     padding: 0;
     text-align: center;
   }
